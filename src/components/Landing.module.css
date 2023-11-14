@@ -1,0 +1,145 @@
+.about,
+.partners,
+.services,
+.contacts {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 70%;
+  margin: auto;
+  padding-top: 3%;
+}
+
+.aboutContent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+
+@media (max-width: 425px) {
+  .aboutContent {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .aboutText {
+    width: 100% !important;
+  }
+}
+
+.aboutText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+}
+
+.aboutGallery {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.aboutGallery img {
+  width: 23%;
+}
+
+@media (max-width: 425px) {
+  .aboutGallery {
+    display: none;
+  }
+
+  .mainPhoto {
+    margin-left: 0% !important;
+    width: 60% !important;
+  }
+}
+
+.mainPhoto {
+  width: 40%;
+  margin-left: 7%;
+}
+
+.about h1,
+.partners h1,
+.services h1,
+.contacts h1 {
+  color: #150578;
+  font-family: "Montserrat";
+  font-weight: 300;
+  font-size: 40px;
+  border-bottom: 2px solid #150578;
+  width: 100%;
+}
+
+@media (max-width: 425px) {
+  .about h1,
+  .partners h1,
+  .services h1,
+  .contacts h1 {
+    font-size: 30px;
+    text-align: center;
+  }
+}
+
+.about p,
+.partners p,
+.services p,
+.contacts p {
+  color: #000;
+  text-align: left;
+  font-family: "Arial";
+  font-size: 20px;
+  line-height: 183%;
+}
+
+@media (max-width: 425px) {
+  .about p,
+  .partners p,
+  .services p,
+  .contacts p {
+    font-size: 16px;
+    text-align: center;
+  }
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 2%;
+}
+
+.card p {
+  font-size: 25px;
+  margin-left: 5%;
+}
+
+.card img {
+  width: 10%;
+}
+
+@media (max-width: 425px) {
+  .card {
+    flex-direction: column;
+  }
+
+  .card p {
+    font-size: 15px;
+  }
+
+  .card img {
+    width: 30%;
+  }
+}
