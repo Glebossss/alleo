@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Glebossss/alleo.git/static/css/main.6356cef6.css",
+    "main.js": "/Glebossss/alleo.git/static/js/main.cbdc8f42.js",
+    "static/media/mainBG.jpg": "/Glebossss/alleo.git/static/media/mainBG.ab254d20351274f2e4b2.jpg",
+    "static/media/ARIAL.TTF": "/Glebossss/alleo.git/static/media/ARIAL.5afb1f7c7464ace62524.TTF",
+    "static/media/photo3.jpeg": "/Glebossss/alleo.git/static/media/photo3.61325a718f12d5178a10.jpeg",
+    "static/media/train.jpeg": "/Glebossss/alleo.git/static/media/train.49aeb8d73c1d2b77539d.jpeg",
+    "static/media/photo4.jpeg": "/Glebossss/alleo.git/static/media/photo4.3640eaf5d4191590f3f8.jpeg",
+    "static/media/photo2.jpeg": "/Glebossss/alleo.git/static/media/photo2.5023a96020e365ad6841.jpeg",
+    "static/media/photo1.jpeg": "/Glebossss/alleo.git/static/media/photo1.1b8415ed1fb01f730b24.jpeg",
+    "static/media/MONTSERRAT-SEMIBOLD.TTF": "/Glebossss/alleo.git/static/media/MONTSERRAT-SEMIBOLD.fa8441f345d83a0bc4ec.TTF",
+    "static/media/MONTSERRAT-LIGHT.TTF": "/Glebossss/alleo.git/static/media/MONTSERRAT-LIGHT.02afb26fe72fcc052988.TTF",
+    "static/media/part3.jpg": "/Glebossss/alleo.git/static/media/part3.f7a07a0964dadd8f36cc.jpg",
+    "static/media/part4.jpg": "/Glebossss/alleo.git/static/media/part4.eeac6ca60f3e47db1456.jpg",
+    "static/media/part1.jpg": "/Glebossss/alleo.git/static/media/part1.3f4f400db118e86fa28c.jpg",
+    "static/media/icon3.png": "/Glebossss/alleo.git/static/media/icon3.046900af4cf3e2608359.png",
+    "static/media/icon2.png": "/Glebossss/alleo.git/static/media/icon2.84feabc171c11c69ea89.png",
+    "static/media/icon1.png": "/Glebossss/alleo.git/static/media/icon1.d22865223544fbf732d3.png",
+    "static/media/logotype.jpg": "/Glebossss/alleo.git/static/media/logotype.4ab6d96a4ac4fafe1dbe.jpg",
+    "static/media/part2.jpg": "/Glebossss/alleo.git/static/media/part2.7dc54113929825115d88.jpg",
+    "index.html": "/Glebossss/alleo.git/index.html",
+    "main.6356cef6.css.map": "/Glebossss/alleo.git/static/css/main.6356cef6.css.map",
+    "main.cbdc8f42.js.map": "/Glebossss/alleo.git/static/js/main.cbdc8f42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6356cef6.css",
+    "static/js/main.cbdc8f42.js"
+  ]
+}
