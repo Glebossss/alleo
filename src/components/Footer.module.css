@@ -14,9 +14,9 @@
   margin-left: 3%;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 426px) {
   .footer img {
-    width: 50%;
+    width: 25%;
   }
 }
 
@@ -46,4 +46,18 @@
 
 .footerNav a:hover {
   opacity: 0.5;
+}
+
+@media(max-width:426px) {
+  .footer {
+    width: 90%;
+  }
+
+  .footerNav {
+    padding-left: 3%;
+  }
+
+  .footerNav a {
+    font-size: 3vw;
+  }
 }

@@ -84,15 +84,13 @@ function Landing() {
           <div className={styles.card}>
             <img src={icon2} />
             <p>
-              Содействие в согласовании перевозок. Lorem ipsum dolor sit amet
-              Lorem ipsum dolor sit
+              Содействие в согласовании перевозок
             </p>
           </div>
           <div className={styles.card}>
             <img src={icon3} />
             <p>
-              Оплата жд тарифа. Lorem ipsum dolor sit amet Lorem ipsum dolor sit
-              amet Lorem ipsum
+              Оплата жд тарифа
             </p>
           </div>
         </div>
@@ -111,7 +109,7 @@ function Landing() {
           <b>Почтовый адрес:</b> 111024, г.Москва, ул. 2-я Кабельная, д.2, стр.2
         </p>
         <p>
-          <b>Телефоны:</b> гор. +7 495 783 49 22<br></br> +7 495 178 08 87
+          <b>Телефоны:</b> гор. +7 (495) 783 49 22<br></br> +7 (495) 178 08 87
         </p>
         <p>
           <b>E-mail:</b> info@optimrt.com

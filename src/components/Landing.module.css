@@ -18,7 +18,7 @@
   width: 100%;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 426px) {
   .aboutContent {
     flex-direction: column;
     align-items: center;
@@ -48,7 +48,7 @@
   width: 23%;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 426px) {
   .aboutGallery {
     display: none;
   }
@@ -76,7 +76,7 @@
   width: 100%;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 426px) {
   .about h1,
   .partners h1,
   .services h1,
@@ -97,7 +97,7 @@
   line-height: 183%;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 426px) {
   .about p,
   .partners p,
   .services p,
@@ -117,6 +117,18 @@
 
 .partners img {
   width: 20%;
+}
+
+@media(max-width: 426px) {
+  .partners div{
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .partners img {
+    width: 100%;
+    margin-top: 5%;
+  }
 }
 
 .cards {
@@ -142,16 +154,23 @@
   width: 10%;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 426px) {
   .card {
     flex-direction: column;
   }
 
   .card p {
     font-size: 15px;
+    margin-left: 0%;
   }
 
   .card img {
     width: 30%;
   }
+
+  .contacts {
+    align-items: center;
+  }
 }
+
+
