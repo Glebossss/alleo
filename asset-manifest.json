@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/alleo/static/css/main.f88fdf27.css",
-    "main.js": "/alleo/static/js/main.d4250f4a.js",
-    "static/media/mainBG.jpg": "/alleo/static/media/mainBG.ab254d20351274f2e4b2.jpg",
+    "main.css": "/alleo/static/css/main.90b487f0.css",
+    "main.js": "/alleo/static/js/main.1f6763f6.js",
+    "static/media/bg.jpg": "/alleo/static/media/bg.e98f5a9849e25aed8276.jpg",
     "static/media/ARIAL.TTF": "/alleo/static/media/ARIAL.5afb1f7c7464ace62524.TTF",
     "static/media/photo3.jpeg": "/alleo/static/media/photo3.61325a718f12d5178a10.jpeg",
     "static/media/train.jpeg": "/alleo/static/media/train.49aeb8d73c1d2b77539d.jpeg",
@@ -20,11 +20,11 @@
     "static/media/logotype.jpg": "/alleo/static/media/logotype.4ab6d96a4ac4fafe1dbe.jpg",
     "static/media/part2.jpg": "/alleo/static/media/part2.7dc54113929825115d88.jpg",
     "index.html": "/alleo/index.html",
-    "main.f88fdf27.css.map": "/alleo/static/css/main.f88fdf27.css.map",
-    "main.d4250f4a.js.map": "/alleo/static/js/main.d4250f4a.js.map"
+    "main.90b487f0.css.map": "/alleo/static/css/main.90b487f0.css.map",
+    "main.1f6763f6.js.map": "/alleo/static/js/main.1f6763f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.f88fdf27.css",
-    "static/js/main.d4250f4a.js"
+    "static/css/main.90b487f0.css",
+    "static/js/main.1f6763f6.js"
   ]
 }
