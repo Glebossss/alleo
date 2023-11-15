@@ -61,24 +61,12 @@ function Landing() {
         id='partners'
       >
         <h1>Партнеры</h1>
-        <Swiper
-          navigation={true}
-          modules={[Navigation]}
-          className='mySwiper'
-        >
-          <SwiperSlide>
-            <img src={logo1} />
-          </SwiperSlide>
-          <SwiperSlide>
-            <img src={logo2} />
-          </SwiperSlide>
-          <SwiperSlide>
-            <img src={logo3} />
-          </SwiperSlide>
-          <SwiperSlide>
-            <img src={logo4} />
-          </SwiperSlide>
-        </Swiper>
+        <div>
+          <img src={logo1} />
+          <img src={logo2} />
+          <img src={logo3} />
+          <img src={logo4} />
+        </div>
       </div>
       <div
         className={styles.services}

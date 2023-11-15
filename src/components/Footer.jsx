@@ -1,6 +1,6 @@
 import styles from "./Footer.module.css"
 
-import logo from "../Images/Logo.png"
+import logo from "../Images/Logo — копия.png"
 
 function Footer() {
   return (
@@ -9,7 +9,6 @@ function Footer() {
         src={logo}
         alt='logo'
       />
-      <p>Входит в группу «Аллео Инвест»</p>
       <div className={styles.footerNav}>
         <a href='#about'>О нас</a>
         <a href='#partners'>Партнеры</a>

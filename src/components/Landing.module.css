@@ -107,6 +107,18 @@
   }
 }
 
+.partners div{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.partners img {
+  width: 20%;
+}
+
 .cards {
   display: flex;
   flex-direction: column;
