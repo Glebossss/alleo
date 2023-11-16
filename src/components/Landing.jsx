@@ -10,6 +10,7 @@ import logo1 from "../Images/part1.jpg"
 import logo2 from "../Images/part2.jpg"
 import logo3 from "../Images/part3.jpg"
 import logo4 from "../Images/part4.jpg"
+import logo5 from "../Images/part5.jpg"
 import train from "../Images/train.jpeg"
 import photo1 from "../Images/photo1.jpeg"
 import photo2 from "../Images/photo2.jpeg"
@@ -31,13 +32,13 @@ function Landing() {
           <div className={styles.aboutText}>
             <p>
               ООО «Оптима Рэйл Транс» транспортно-экспедиторская компания,
-              созданная в 2020 году. Основной сферой деятельности является
+              созданная в 2020 году.<br></br> Основной сферой деятельности является
               предоставление услуг транспортного экспедирования железнодорожных
               перевозок грузов, следующих транзитом через Казахстан, в том числе
               оплата жд тарифа, содействие в согласовании перевозок, быстрое
               реагирование и принятие мер в случае возникновения нештатных
               ситуаций в пути следования (отцепленные по неисправности и другим
-              причинам вагоны, форс-мажорные обстоятельства и т.д.) Также имеем
+              причинам вагоны, форс-мажорные обстоятельства и т.д.)<br></br> Также имеем
               возможности по экспедированию грузов по коридору «Север-Юг»
               назначением на Иран, Турцию, Афганистан, с выходом к Персидскому
               заливу и далее - с организацией перегруза грузов с широкой на
@@ -66,6 +67,7 @@ function Landing() {
           <img src={logo2} />
           <img src={logo3} />
           <img src={logo4} />
+          <img src={logo5} />
         </div>
       </div>
       <div
@@ -75,10 +77,9 @@ function Landing() {
         <h1>Преимущества</h1>
         <div className={styles.cards}>
           <div className={styles.card}>
-            <img src={icon1} />
+            <img src={icon3} />
             <p>
-              Быстрое реагирование и принятие мер в случае возникновения
-              нештатных ситуаций
+              Оплата жд тарифа
             </p>
           </div>
           <div className={styles.card}>
@@ -88,9 +89,10 @@ function Landing() {
             </p>
           </div>
           <div className={styles.card}>
-            <img src={icon3} />
+            <img src={icon1} />
             <p>
-              Оплата жд тарифа
+              Быстрое реагирование и принятие мер в случае возникновения
+              нештатных ситуаций
             </p>
           </div>
         </div>
