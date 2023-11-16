@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alleo/static/css/main.a8eaeb5e.css",
-    "main.js": "/alleo/static/js/main.fade0602.js",
+    "main.css": "/alleo/static/css/main.53bdddfd.css",
+    "main.js": "/alleo/static/js/main.f23ec159.js",
     "static/media/bg.jpg": "/alleo/static/media/bg.3944586ee9d2226df57e.jpg",
     "static/media/ARIAL.TTF": "/alleo/static/media/ARIAL.5afb1f7c7464ace62524.TTF",
     "static/media/photo3.jpeg": "/alleo/static/media/photo3.61325a718f12d5178a10.jpeg",
@@ -11,20 +11,20 @@
     "static/media/photo1.jpeg": "/alleo/static/media/photo1.1b8415ed1fb01f730b24.jpeg",
     "static/media/MONTSERRAT-SEMIBOLD.TTF": "/alleo/static/media/MONTSERRAT-SEMIBOLD.fa8441f345d83a0bc4ec.TTF",
     "static/media/MONTSERRAT-LIGHT.TTF": "/alleo/static/media/MONTSERRAT-LIGHT.02afb26fe72fcc052988.TTF",
+    "static/media/part1.jpg": "/alleo/static/media/part1.42baa716fa33d1466476.jpg",
     "static/media/part3.jpg": "/alleo/static/media/part3.f7a07a0964dadd8f36cc.jpg",
     "static/media/part4.jpg": "/alleo/static/media/part4.eeac6ca60f3e47db1456.jpg",
-    "static/media/part1.jpg": "/alleo/static/media/part1.3f4f400db118e86fa28c.jpg",
     "static/media/icon3.png": "/alleo/static/media/icon3.046900af4cf3e2608359.png",
     "static/media/icon2.png": "/alleo/static/media/icon2.84feabc171c11c69ea89.png",
     "static/media/icon1.png": "/alleo/static/media/icon1.d22865223544fbf732d3.png",
-    "static/media/logotype.jpg": "/alleo/static/media/logotype.4ab6d96a4ac4fafe1dbe.jpg",
     "static/media/part2.jpg": "/alleo/static/media/part2.7dc54113929825115d88.jpg",
+    "static/media/part5.jpg": "/alleo/static/media/part5.7cd7b118eb393bf2381d.jpg",
     "index.html": "/alleo/index.html",
-    "main.a8eaeb5e.css.map": "/alleo/static/css/main.a8eaeb5e.css.map",
-    "main.fade0602.js.map": "/alleo/static/js/main.fade0602.js.map"
+    "main.53bdddfd.css.map": "/alleo/static/css/main.53bdddfd.css.map",
+    "main.f23ec159.js.map": "/alleo/static/js/main.f23ec159.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8eaeb5e.css",
-    "static/js/main.fade0602.js"
+    "static/css/main.53bdddfd.css",
+    "static/js/main.f23ec159.js"
   ]
 }
